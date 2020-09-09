@@ -24,6 +24,8 @@ The trackers are tested on the following platform.
 - CUDA10
 - VS2017
 
+**All the DCF-based trackers' results are obtained using a single CPU with a single core**
+
 ### fig
 
 Here shows some of the tracking results of 21 handcrafted DCF-based trackers.
@@ -53,6 +55,11 @@ Here shows some of the tracking results of 21 handcrafted DCF-based trackers.
 
 <img src="./fig/VisDrone_Suc_hand.png">
 
+## UAVDT_Comparision against deep trackers
+
+The deep trackers used GPU acceleration, while the DCF-based tracker AutoTrack used a **single CPU only**.
+
+<img src="./fig/UAVDT_Pre_deep.png">
 
 ## Acknowledgements
 
