@@ -24,7 +24,7 @@ The trackers are tested on the following platform.
 - CUDA10
 - VS2017
 
-**All the DCF-based trackers' results are obtained using a single CPU with a single core**
+**All the DCF-based trackers' results are obtained using a single CPU with a single core.**
 
 ### fig
 
