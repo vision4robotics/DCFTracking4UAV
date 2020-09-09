@@ -26,13 +26,14 @@ The trackers are tested on the following platform.
 
 ### fig
 
-Here shows the tracking results of 21 handcrafted DCF-based trackers.
+Here shows some of the tracking results of 21 handcrafted DCF-based trackers.
 
-#### UAV123
 
-<img src="./fig/UAV123_Pre_hand.png">
+#### DTB70
 
-<img src="./fig/UAV123_Suc_hand.png">
+<img src="./fig/DTB70_Pre_hand.png">
+
+<img src="./fig/DTB70_Suc_hand.png">
 
 #### UAV123@10fps
 
@@ -40,23 +41,11 @@ Here shows the tracking results of 21 handcrafted DCF-based trackers.
 
 <img src="./fig/UAV123@10fps_Suc_hand.png">
 
-#### UAV20L
-
-<img src="./fig/UAV20L_Pre_hand.png">
-
-<img src="./fig/UAV20L_Suc_hand.png">
-
 #### UAVDT
 
 <img src="./fig/UAVDT_Pre_hand.png">
 
 <img src="./fig/UAVDT_Suc_hand.png">
-
-#### DTB70
-
-<img src="./fig/DTB70_Pre_hand.png">
-
-<img src="./fig/DTB70_Suc_hand.png">
 
 #### VisDrone2019-SOT
 
