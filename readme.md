@@ -17,10 +17,14 @@ https://arxiv.org/abs/2010.06255.
 If you want to use our experimental results or related content, please cite our paper using the format as follows:
 
 @article{Fu2020Correlation,
-a.uthor = {Changhong Fu and Bowen Li and Fangqiang Ding and Fuling Lin and Geng Lu},
+author = {Changhong Fu and Bowen Li and Fangqiang Ding and Fuling Lin and Geng Lu},
+
 title = {Correlation Filter for UAV-Based Aerial Tracking: A Review and Experimental Evaluation},
+
 year = {2020},
-journal = {arXiv:2010.06255},
+
+journal = {arXiv:2010.06255}
+
 }
 
 ## Results_OPE_win10_i7_2080_R2019a
