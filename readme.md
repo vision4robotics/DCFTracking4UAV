@@ -6,8 +6,9 @@
 
 This code library gives our experimental results and most of the publicly available DCF-based trackers.
 
+The trackers are in folder **tracker_set** and the results are in **all_trk_result**.
 
-The trackers are in fold **tracker_set** and the results are in **all_trk_result**.
+In folder **demo**, we offer an example on how to utilize the trackers in this code library and how to implement the tracking procedure.
 
 
 The submitted version of our paper has been uploaded to arxiv which can be found at:
