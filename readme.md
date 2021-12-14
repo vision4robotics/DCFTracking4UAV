@@ -1,4 +1,4 @@
-# Correlation Filter for Unmanned Aerial Vehicle-Based Aerial Tracking: A Review and Experimental Evaluation
+# Correlation Filters for Unmanned Aerial Vehicle-Based Aerial Tracking: A Review and Experimental Evaluation
 
 ### Changhong Fu, Bowen Li, Fangqiang Ding, Fuling Lin, and Geng Lu
 
