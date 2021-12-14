@@ -1,4 +1,4 @@
-# Correlation Filter for UAV-Based Aerial Tracking: A Review and Experimental Evaluation
+# Correlation Filter for Unmanned Aerial Vehicle-Based Aerial Tracking: A Review and Experimental Evaluation
 
 ### Changhong Fu, Bowen Li, Fangqiang Ding, Fuling Lin, and Geng Lu
 
@@ -17,17 +17,15 @@ https://arxiv.org/abs/2010.06255.
 
 If you want to use our experimental results or related content, please cite our paper using the format as follows:
 
-@article{Fu2020Correlation,
-
-author = {Changhong Fu and Bowen Li and Fangqiang Ding and Fuling Lin and Geng Lu},
-
-title = {Correlation Filter for UAV-Based Aerial Tracking: A Review and Experimental Evaluation},
-
-year = {2020},
-
-journal = {arXiv:2010.06255}
-
-}
+@ARTICLE{9445732,
+  author={Fu, Changhong and Li, Bowen and Ding, Fangqiang and Lin, Fuling and Lu, Geng},
+  journal={IEEE Geoscience and Remote Sensing Magazine}, 
+  title={Correlation Filters for Unmanned Aerial Vehicle-Based Aerial Tracking: A Review and Experimental Evaluation}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={2-387},
+  doi={10.1109/MGRS.2021.3072992}}
 
 ## Results_OPE_win10_i7_2080_R2019a
 
